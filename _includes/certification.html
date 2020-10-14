@@ -1,0 +1,24 @@
+{% assign skills = site.data.data.certification %}
+{% if skills %}
+<section class="skills-section section">
+
+    <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+        {{ skills.title }}
+    </h2>
+    <div>
+        {% for skill in skills.toolset %}
+        <div class="item">
+            <h3 style="width: 100% !important;font-size: 14px;">
+                <a href="https://www.scrum.org/user/343208" target="_blank">
+                {{ skill.name }}
+                </a>
+            </h3>
+        </div><!--//item-->
+        {% endfor %}
+    </div>
+</section><!--//skills-section-->
+{% endif %}

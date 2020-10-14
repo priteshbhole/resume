@@ -1,0 +1,165 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Pritesh Bhole
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: priteshbhole11@gmail.com
+
+    linkedin: pritesh-bhole-9701abb6
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Hindi
+        level: Native
+
+      - idiom: Marathi
+        level: Native
+
+    interests:
+      - item: Climbing
+
+      - item: Kickboxing
+
+      - item: Running
+
+      - item: Reading
+
+certification:
+    title: certification
+    toolset:
+     - name: Certified Scrum Master from Scrum.org
+     - name: Certified Professional Scrum Product Owner I from Scrum.org
+
+career-profile:
+    title: Career Profile
+    summary: |
+      A creative and innovative thinker, with 4+ years of experience working
+      in multiple roles with a good understanding of business requirements
+      elicitation and quality assurance with a strong experience in
+      envisioning, representing and translating the product vision from the
+      business area to software development.
+education:
+    - degree: Master in Computing and IT
+      university: Northumbria University, UK
+      time: 2015 - 2016
+      grade: Distinction
+
+    - degree: Bachelor in Electronics and Telecommunication
+      university: University of Mumbai, INDIA
+      time: 2011 - 2014
+      grade: First class
+
+    - degree: Diploma in Electronics and Telecommunication
+      university: MSBTE, INDIA
+      time: 2008 - 2011
+      grade: Distinction
+
+experiences:
+    - role: Full Stack Developer
+      time: Sept 2016 – present
+      company: EMBL-EBI (Cambridge, UK)
+      details: |
+         - Development of a resource content management, monitoring and
+         tracking system
+         - Gathering requirements from various group leaders and team co-coordinators
+         - Analysing, documenting and representing the product requirements
+         - Designing and Developing mock-ups and prototypes
+         - Handling and Prioritising tickets from the users
+         - Crafting and Implementing of the RDBMS database
+         - Development of the application using spring boot and angular
+         - Developing RESTful web API along with token-based authorisation
+         - Integration with SAP for accounting information
+         - Integration with ELK and Redash data visualisation and analysing tools
+         - Representing data using graphical lib D3.js and google charts
+
+    - role: Trainee web developer
+      time: June 2015 - Sept 2015
+      company: Inpach solutions (Newcastle upon Tyne, UK)
+      details: |
+        - Market research and Information gathering
+        - Design and development of initial mock-ups
+        - Communication and management of the stakeholders and clients
+        - Websites maintenance
+        - Managing digital promotion
+
+technical-skills:
+    title: Technical Skills &amp; Proficiency
+
+    toolset:
+      - name: HTML5 & CSS
+        level: 75%
+
+      - name: JavaScript & Typescript
+        level: 85%
+
+      - name: Angular 2
+        level: 75%
+
+      - name: Bootstrap & Material
+        level: 75%
+
+      - name: Java
+        level: 85%
+
+      - name: Spring Boot
+        level: 75%
+
+      - name: RDBMS
+        level: 90%
+
+      - name: SQL, GraphQl & JSONiq
+        level: 75%
+
+      - name: Jira & Confluence
+        level: 90%
+
+      - name: UML & ERP
+        level: 90%
+
+      - name: MS Office & Ms. Project
+        level: 90%
+
+      - name: Balsamic & Figma
+        level: 90%
+
+      - name: Kibana & Redash
+        level: 75%
+
+      - name: D3.js & Google charts
+        level: 75%
+
+soft-skills:
+    title: Soft Skills &amp; Proficiency
+
+    details: |
+       - Result-oriented individual with problem-solving skills, including the ability to apply creative and innovative thinking to a complex problem
+       - Highly organized with excellent attention to details
+       - Excellent analytical, organizational, collaboration and
+         documentation skills
+       - Strong sense of personal accountability with
+         ability to juggle competing priorities
+       - Good management skills,
+         including the ability to negotiate and control the scope of activities
+
+accomplishments:
+    - details: |
+       - Handling and prioritising tickets from the users
+       - Analysing, documenting and representing the product requirements
+       - Coordinating with internal partners and clients to understand the product vision
+       - Negotiating the product scope with multiple team leaders
+       - Owned and  prioritised product backlog
+       - Creation of high-quality user stories that can be turned into  technical development stories for the team
+       - Working with teams to continuously improve product ownership and other agile processes
+       - Collaborating closely with the Product Manager to obtain subject matter expertise
+       - Create and maintain the solution vision, roadmap, and backlog of work through the project life cycle
+       - Strong commercial focus and the ability to prioritize tasks  accordingly; good understanding of product design principles
