@@ -69,6 +69,7 @@ experiences:
       time: Sept 2016 – present
       company: EMBL-EBI (Cambridge, UK)
       details: |
+      	 - Created Sprint Release Plans
          - Working through the project life cycle from requirement gathering to deployment of the features and maintenance
          - Development of a resource content management, monitoring and
          tracking system
@@ -140,20 +141,25 @@ technical-skills:
         level: 75%
 
 soft-skills:
-    title: Soft Skills &amp; Proficiency
+    title: Skills &amp; Proficiency
 
     details: |
-       - Result-oriented individual with problem-solving skills, including the ability to apply creative and innovative thinking to a complex problem
-       - Highly organized with excellent attention to details
-       - Excellent analytical, organizational, collaboration and
-         documentation skills
-       - Strong sense of personal accountability with
-         ability to juggle competing priorities
-       - Good management skills,
-         including the ability to negotiate and control the scope of activities
+      -	Conceptual skills
+      -	User-cantered design processes
+      -	Design quality standards
+      -	Service and product design methodologies
+      -	Agile and Scrum
+      -	Conducting design sprints
+      -	User validation
+      -	Analytical skills
+      -	Collaboration and teamwork
+      -	Communication
+
 
 accomplishments:
     - details: |
+       - Collaborated with stakeholders to understand business problem statements and convert them into user stories
+       - Articulated product vision and user stories in a way clearly understandable to teams
        - Extensive experience in working through the project life cycle
        - Handling and prioritising tickets from the users
        - Analysing, documenting and representing the product requirements
