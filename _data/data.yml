@@ -37,17 +37,20 @@ sidebar:
 certification:
     title: certification
     toolset:
-     - name: Certified Scrum Master from Scrum.org
-     - name: Certified Professional Scrum Product Owner I from Scrum.org
+     - name: Certified AWS Cloud Practitioner | https://github.com/priteshbhole/cert/blob/main/AWS-certified-cloud-practitioner-certificate.pdf
+     - name: Certified Business Analysis Practitioner (BCS) |https://www.scrum.org/user/343208
+     - name: Certified Scrum Master (Scrum.org) |https://www.scrum.org/user/343208
+     - name: Certified Professional Scrum Product Owner I (Scrum.org) |https://www.scrum.org/user/343208
+     - name: API Product Management |https://github.com/priteshbhole/cert/blob/main/api-product-manager.pdf
 
 career-profile:
     title: Career Profile
     summary: |
-      A creative and innovative thinker, with 4+ years of experience working
-      in multiple roles with a good understanding of business requirements
-      elicitation and quality assurance with a strong experience in
-      envisioning, representing and translating the product vision from the
-      business area to software development.
+      A creative and innovative thinker,
+      with 4+ years of experience working in multiple roles
+      with a good understanding of business requirements elicitation and quality assurance
+      with a strong experience in envisioning, representing and
+      translating the product vision from the business area to software development.
 education:
     - degree: Master in Computing and IT
       university: Northumbria University, UK
@@ -69,11 +72,13 @@ experiences:
       time: Sept 2016 – present
       company: EMBL-EBI (Cambridge, UK)
       details: |
-         - Created sprint release plans
+         - Created Sprint Release Plans
          - Working through the project life cycle from requirement gathering to deployment of the features and maintenance
-         - Development of a resource content management, monitoring and
-         tracking system
-         - Gathering requirements from various group leaders and team co-coordinators
+         - Defining training requirements and conducting trainings
+         - Conducting multiple Joint Application Development (JAD) sessions for the application team to address queries
+         - Performing fit-gap analysis and impact analysis during change management
+         - Development of a resource content management, monitoring and tracking system
+         - Requirements elicitation from various group leaders and team co-coordinators
          - Analysing, documenting and representing the product requirements
          - Designing and Developing mock-ups and prototypes
          - Handling and Prioritising tickets from the users
@@ -83,6 +88,7 @@ experiences:
          - Integration with SAP for accounting information
          - Integration with ELK and Redash data visualisation and analysing tools
          - Representing data using graphical lib D3.js and google charts
+
 
     - role: Trainee web developer
       time: June 2015 - Sept 2015
@@ -95,9 +101,36 @@ experiences:
         - Managing digital promotion
 
 technical-skills:
-    title: Technical Skills &amp; Proficiency
+    title: Skills &amp; Summary
 
     toolset:
+      - name: Data Analysis/Modelling & UML
+        level: 70%
+
+      - name: User Journey & Storyboarding
+        level: 75%
+
+      - name: Agile, Jira, Confluence
+        level: 75%
+
+      - name: Product Design Methodologies
+        level: 70%
+
+      - name: Stakeholder Management
+        level: 70%
+
+      - name: Conceptual Skills
+        level: 75%
+
+      - name: User-centred Design Processes
+        level: 75%
+
+      - name: Communication, Collaboration and Teamwork
+        level: 90%
+
+      - name: GAP analysis & Target Operating Model
+        level: 75%
+
       - name: HTML5 & CSS
         level: 75%
 
@@ -120,13 +153,7 @@ technical-skills:
         level: 90%
 
       - name: SQL, GraphQl & JSONiq
-        level: 75%
-
-      - name: Jira & Confluence
-        level: 90%
-
-      - name: UML & ERP
-        level: 90%
+        level: 85%
 
       - name: MS Office & Ms. Project
         level: 90%
@@ -140,34 +167,24 @@ technical-skills:
       - name: D3.js & Google charts
         level: 75%
 
-soft-skills:
-    title: Skills &amp; Proficiency
-
-    details: |
-       - Conceptual skills
-       - User-cantered design processes
-       - Design quality standards
-       - Service and product design methodologies
-       - Agile and Scrum
-       - Conducting design sprints
-       - User validation
-       - Analytical skills
-       - Collaboration and teamwork
-       - Communication
-
-
 accomplishments:
     - details: |
-       - Collaborated with stakeholders to understand business problem statements and convert them into user stories
-       - Articulated product vision and user stories in a way clearly understandable to teams
-       - Extensive experience in working through the project life cycle
+       - Collaborated with stakeholders to understand business problem statements and convert them into technical user stories for development teams
+       - Negotiating and presenting scope of backlog item with
+        business/technical stakeholders
+       - Documenting, Analysing and Validating the product requirements
+       - Examined existing processes to modify existing functional/technical
+        documentation to create GAP analysis
+       - Sourcing and Analysing data to support key decisions taken on the
+        scope and breadth of epics which feeds into vertical slicing of the user stories
+       - Articulated product vision and user stories in a way clearly
+        understandable to teams
+       - Extensive experience in working through the SDLC
        - Handling and prioritising tickets from the users
-       - Analysing, documenting and representing the product requirements
-       - Coordinating with internal partners and clients to understand the product vision
-       - Negotiating the product scope with multiple team leaders
-       - Owned and  prioritised product backlog
-       - Creation of high-quality user stories that can be turned into  technical development stories for the team
-       - Working with teams to continuously improve product ownership and other agile processes
-       - Collaborating closely with the Product Manager to obtain subject matter expertise
-       - Create and maintain the solution vision, roadmap, and backlog of work through the project life cycle
-       - Strong commercial focus and the ability to prioritize tasks  accordingly; good understanding of product design principles
+       - Owned and prioritised product backlog
+       - Working with teams to continuously improve product ownership and
+        other agile processes
+       - Create and maintain the solution vision, roadmap, and backlog of
+        work through the project life cycle
+       - Strong commercial focus and the ability to prioritize tasks
+        accordingly, good understanding of product design principles
