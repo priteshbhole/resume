@@ -37,11 +37,11 @@ sidebar:
 certification:
     title: certification
     toolset:
-       - name: Certified AWS Cloud Practitioner link https://github.com/priteshbhole/cert/blob/main/AWS-certified-cloud-practitioner-certificate.pdf
-       - name: Certified Business Analysis Practitioner (BCS) link https://www.scrum.org/user/343208
-       - name: Certified Scrum Master (Scrum.org) link https://www.scrum.org/user/343208
-       - name: Certified Professional Scrum Product Owner I (Scrum.org) link https://www.scrum.org/user/343208
-       - name: API Product Management link https://github.com/priteshbhole/cert/blob/main/api-product-manager.pdf
+       - name: Certified AWS Cloud Practitioner (https://github.com/priteshbhole/cert/blob/main/AWS-certified-cloud-practitioner-certificate.pdf)
+       - name: Certified Business Analysis Practitioner (BCS) (https://github.com/priteshbhole/cert/blob/main/Bussiness-Analyst-Pract-BCS.pdf)
+       - name: Certified Scrum Master (Scrum.org) (https://www.scrum.org/user/343208)
+       - name: Certified Professional Scrum Product Owner I (Scrum.org) (https://www.scrum.org/user/343208)
+       - name: API Product Management (https://github.com/priteshbhole/cert/blob/main/api-product-manager.pdf)
 
 career-profile:
     title: Career Profile
