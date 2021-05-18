@@ -3,188 +3,189 @@
 #
 
 sidebar:
-    education: True # set to False if you want education in main section instead of in sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Pritesh Bhole
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Pritesh Bhole
+  tagline: Full Stack Developer
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: priteshbhole11@gmail.com
+  # Sidebar links
+  email: priteshbhole11@gmail.com
 
-    linkedin: pritesh-bhole-9701abb6
+  linkedin: pritesh-bhole-9701abb6
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: English
+      level: Native
 
-      - idiom: Hindi
-        level: Native
+    - idiom: Hindi
+      level: Native
 
-      - idiom: Marathi
-        level: Native
+    - idiom: Marathi
+      level: Native
 
-    interests:
-      - item: Climbing
+  interests:
+    - item: Climbing
 
-      - item: Kickboxing
+    - item: Kickboxing
 
-      - item: Running
+    - item: Running
 
-      - item: Reading
+    - item: Reading
 
 certification:
-    title: certification
-    toolset:
-       - name: Certified AWS Cloud Practitioner (https://github.com/priteshbhole/cert/blob/main/AWS-certified-cloud-practitioner-certificate.pdf)
-       - name: Certified Business Analysis Practitioner (BCS) (https://github.com/priteshbhole/cert/blob/main/Bussiness-Analyst-Pract-BCS.pdf)
-       - name: Certified Scrum Master (Scrum.org) (https://www.scrum.org/user/343208)
-       - name: Certified Professional Scrum Product Owner I (Scrum.org) (https://www.scrum.org/user/343208)
-       - name: API Product Management (https://github.com/priteshbhole/cert/blob/main/api-product-manager.pdf)
+  title: certification
+  toolset:
+    - name: Certified AWS Cloud Practitioner (https://github.com/priteshbhole/cert/blob/main/AWS-certified-cloud-practitioner-certificate.pdf)
+    - name: Certified Business Analysis Practitioner (BCS) (https://github.com/priteshbhole/cert/blob/main/Bussiness-Analyst-Pract-BCS.pdf)
+    - name: Certified Scrum Master (Scrum.org) (https://www.scrum.org/user/343208)
+    - name: Certified Professional Scrum Product Owner I (Scrum.org) (https://www.scrum.org/user/343208)
+    - name: API Product Management (https://github.com/priteshbhole/cert/blob/main/api-product-manager.pdf)
 
 career-profile:
-    title: Career Profile
-    summary: |
-      A creative and innovative thinker,
-      with 4+ years of experience working in multiple roles
-      with a good understanding of business requirements elicitation and quality assurance
-      with a strong experience in envisioning, representing and
-      translating the product vision from the business area to software development.
+  title: Career Profile
+  summary: |
+    A creative thinker, with 4+ years of experience working in multiple roles with a good understanding of business requirements elicitation and analysis techniques. An astute analyst with strong experience in envisioning, representing and translating the product vision from the business area to software development.
 education:
-    - degree: Master in Computing and IT
-      university: Northumbria University, UK
-      time: 2015 - 2016
-      grade: Distinction
+  - degree: Master in Computing and IT
+    university: Northumbria University, UK
+    time: 2015 - 2016
+    grade: Distinction
 
-    - degree: Bachelor in Electronics and Telecommunication
-      university: University of Mumbai, INDIA
-      time: 2011 - 2014
-      grade: First class
+  - degree: Bachelor in Electronics and Telecommunication
+    university: University of Mumbai, INDIA
+    time: 2011 - 2014
+    grade: First class
 
-    - degree: Diploma in Electronics and Telecommunication
-      university: MSBTE, INDIA
-      time: 2008 - 2011
-      grade: Distinction
+  - degree: Diploma in Electronics and Telecommunication
+    university: MSBTE, INDIA
+    time: 2008 - 2011
+    grade: Distinction
 
 experiences:
-    - role: Full Stack Developer
-      time: Sept 2016 – present
-      company: EMBL-EBI (Cambridge, UK)
-      details: |
-         - Created Sprint Release Plans
-         - Working through the project life cycle from requirement gathering to deployment of the features and maintenance
-         - Defining training requirements and conducting trainings
-         - Conducting multiple Joint Application Development (JAD) sessions for the application team to address queries
-         - Performing fit-gap analysis and impact analysis during change management
-         - Development of a resource content management, monitoring and tracking system
-         - Requirements elicitation from various group leaders and team co-coordinators
-         - Analysing, documenting and representing the product requirements
-         - Designing and Developing mock-ups and prototypes
-         - Handling and Prioritising tickets from the users
-         - Crafting and Implementing of the RDBMS database
-         - Development of the application using spring boot and angular
-         - Developing RESTful web API along with token-based authorisation
-         - Integration with SAP for accounting information
-         - Integration with ELK and Redash data visualisation and analysing tools
-         - Representing data using graphical lib D3.js and google charts
+  - role: Full Stack Developer / Scrum Master
+    time: Sept 2016 – present
+    company: EMBL-EBI (Cambridge, UK) - Is a worldwide leader in the
+    storage, analysis and dissemination of large biological datasets
+    details: |
+      - Development of the content management, monitoring and
+        tracking system for organisation’s financial and infrastructural
+        capacity planning and management
+      - Analysing the project proposal document to identify and map the
+        stakeholders using the interest power grid and RACI matrix
+      - Facilitating the workshop to reach a consensus As-in, To-be model
+        and to identify CSF and KPI for the project
+      - Working with stakeholders to prioritise the product backlog with
+        various techniques like MoSCoW, Kano Model, Weighted Scoring or
+         100$ bill
+      - Organising brainstorming sessions with stakeholders and development
+        teams for new or existing features improvement or bugs and
+        capturing it using rich picture or mind map
+      - Developing mock-ups and prototypes using Figma or Balsamiq to
+         help stakeholders with ambiguities
+      -	Analysed risk and impact jointly with development teams and
+         project manager
+      -	Capturing system process flow with functional and non-functional
+         requirements in user stories with personas
+      -	Creating UAT with close feedbacks from collaborators and associates
+      -	Supporting the solutions team throughout the development process with any queries by conducting multiple Joint Application Development (JAD) sessions
+      -	Creating the functional process flow, ER diagram and Class modelling for the system to understand details of implementation
+      -	Implemented Scrum ideology in the teams by advocating Scrum methodologies, facilitating the Scrum events and solving impediments
+      -	Implementing the user stories using spring boot and angular framework
+      -	Crafting and implementing the RDBMS for the system along the lines of ER diagram
+      -	Data analysis and visualisation using Kibana, Redash and Google Charts for capacity planning matrix
 
+  - role: Trainee web developer
+    time: June 2015 - Sept 2015
+    company: Inpach solutions (Newcastle upon Tyne, UK)
+    details: |
+      - Working with CTO by carrying out SWOT and data analysis for clients to
+      improve the business revenue through social media promotions by carrying out targeted marketing
+      -	Market research about new user centric-designs to meet client design
+      requirements
+      -	Designing mock-ups and feedback gathering in the client meetings
+      -	Managing communication with the clients as the first line of support
 
-    - role: Trainee web developer
-      time: June 2015 - Sept 2015
-      company: Inpach solutions (Newcastle upon Tyne, UK)
-      details: |
-        - Market research and Information gathering
-        - Design and development of initial mock-ups
-        - Communication and management of the stakeholders and clients
-        - Websites maintenance
-        - Managing digital promotion
 
 technical-skills:
-    title: Skills &amp; Summary
+  title: Skills &amp; Summary
 
-    toolset:
-      - name: Data Analysis/Modelling & UML
-        level: 70%
+  toolset:
+    - name: Data Analysis/Modelling & UML
+      level: 70%
 
-      - name: User Journey & Storyboarding
-        level: 75%
+    - name: User Journey & Storyboarding
+      level: 75%
 
-      - name: Agile, Jira, Confluence
-        level: 75%
+    - name: Agile, Jira, Confluence
+      level: 75%
 
-      - name: Product Design Methodologies
-        level: 70%
+    - name: Product Design Methodologies
+      level: 70%
 
-      - name: Stakeholder Management
-        level: 70%
+    - name: Stakeholder Management
+      level: 70%
 
-      - name: Conceptual Skills
-        level: 75%
+    - name: Conceptual Skills
+      level: 75%
 
-      - name: User-centred Design Processes
-        level: 75%
+    - name: User-centred Design Processes
+      level: 75%
 
-      - name: Communication, Collaboration and Teamwork
-        level: 90%
+    - name: Communication, Collaboration and Teamwork
+      level: 90%
 
-      - name: GAP analysis & Target Operating Model
-        level: 75%
+    - name: GAP analysis & Target Operating Model
+      level: 75%
 
-      - name: HTML5 & CSS
-        level: 75%
+    - name: HTML5 & CSS
+      level: 75%
 
-      - name: JavaScript & Typescript
-        level: 85%
+    - name: JavaScript & Typescript
+      level: 85%
 
-      - name: Angular 2
-        level: 75%
+    - name: Angular 2
+      level: 75%
 
-      - name: Bootstrap & Material
-        level: 75%
+    - name: Bootstrap & Material
+      level: 75%
 
-      - name: Java
-        level: 85%
+    - name: Java
+      level: 85%
 
-      - name: Spring Boot
-        level: 75%
+    - name: Spring Boot
+      level: 75%
 
-      - name: RDBMS
-        level: 90%
+    - name: RDBMS
+      level: 90%
 
-      - name: SQL, GraphQl & JSONiq
-        level: 85%
+    - name: SQL, GraphQl & JSONiq
+      level: 85%
 
-      - name: MS Office & Ms. Project
-        level: 90%
+    - name: MS Office & Ms. Project
+      level: 90%
 
-      - name: Balsamic & Figma
-        level: 90%
+    - name: Balsamic & Figma
+      level: 90%
 
-      - name: Kibana & Redash
-        level: 75%
+    - name: Kibana & Redash
+      level: 75%
 
-      - name: D3.js & Google charts
-        level: 75%
+    - name: D3.js & Google charts
+      level: 75%
 
-accomplishments:
-    - details: |
-       - Collaborated with stakeholders to understand business problem statements and convert them into technical user stories for development teams
-       - Negotiating and presenting scope of backlog item with
-        business/technical stakeholders
-       - Documenting, Analysing and Validating the product requirements
-       - Examined existing processes to modify existing functional/technical
-        documentation to create GAP analysis
-       - Sourcing and Analysing data to support key decisions taken on the
-        scope and breadth of epics which feeds into vertical slicing of the user stories
-       - Articulated product vision and user stories in a way clearly
-        understandable to teams
-       - Extensive experience in working through the SDLC
-       - Handling and prioritising tickets from the users
-       - Owned and prioritised product backlog
-       - Working with teams to continuously improve product ownership and
-        other agile processes
-       - Create and maintain the solution vision, roadmap, and backlog of
-        work through the project life cycle
-       - Strong commercial focus and the ability to prioritize tasks
-        accordingly, good understanding of product design principles
+professional-expertise:
+  - details: |
+      - Collaborating with business/technical stakeholders to understand business problem statements and convert them into epics and user stories for the solutions team
+      - Negotiating and presenting the scope of the product backlog and sprint goals to business/technical stakeholders
+      - Conducting workshops with multi-disciplinary stakeholders gathering/analysing functional and non-functional requirements of the features or functionalities for system and business using prototypes and scenario analysis
+      - Performed As-Is and To-Be analysis to create an action plan
+      - Data analysis on company infrastructure usage and assisting senior stakeholder in the capacity planning
+      - Leading Scrum transformation initiative, implementing processes to accommodate changing requirements across projects for an improved delivery
+      - Working closely with senior managers to maintain product lifecycle,
+        gathering/prioritising product/customer requirements, defining the product vision, and delivery of the product
+      - Hands-on experience with microservice architecture-based
+         applications with a solid understanding of Restful protocols
+      - Advocating standard coding practices like TDD/BDD development and CI/CD automation
+
