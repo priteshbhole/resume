@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e1459ba-3fc1-433b-99c0-9ef8d6b2a898" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/accomplishments.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/accomplishments.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +225,7 @@
       <workItem from="1616951509937" duration="1751000" />
       <workItem from="1617025559245" duration="354000" />
       <workItem from="1617964812981" duration="18000" />
-      <workItem from="1621335550892" duration="748000" />
+      <workItem from="1621335550892" duration="976000" />
     </task>
     <servers />
   </component>
