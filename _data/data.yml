@@ -64,8 +64,10 @@ education:
     grade: Distinction
 
 experiences:
-  - role: Full Stack Developer / Scrum Master
-    time: Sept 2016 – present
+  - role: Senior Software Developer / Scrum Master
+    time: Sept 2019 – 2021
+  - role: Software Developer
+    time: Sept 2016 – 2019
     company: EMBL-EBI (Cambridge, UK) - Is a worldwide leader in the storage,
              analysis and dissemination of large biological datasets
     details: |
