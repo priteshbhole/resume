@@ -46,7 +46,7 @@ certification:
 career-profile:
   title: Career Profile
   summary: |
-    A creative thinker, with 4+ years of experience working in multiple roles with a good understanding of business requirements elicitation and analysis techniques. An astute analyst with strong experience in envisioning, representing and translating the product vision from the business area to software development.
+    A creative thinker with 4+ years of experience working in multiple roles with a good understanding of business requirements elicitation and analysis techniques. An astute analyst with solid experience in envisioning, representing and translating the product vision from the business area to software development.
 education:
   - degree: Master in Computing and IT
     university: Northumbria University, UK
@@ -64,6 +64,23 @@ education:
     grade: Distinction
 
 experiences:
+  - role: Scrum Master
+    time: Sept 2021 – Present
+    company: HDR UK (London, UK) - A national institute for health data science on a mission  to unite the UK’s health data to enable discoveries that improve people’s lives.
+    details: |
+      - Leading end-to-end delivery across multiple teams by prioritising business value
+      - Using metrics effectively to identify and implement opportunities for improvement in teams' processes and to capture the effectiveness of changes
+      - Application of Agile approaches to building collaborative, cross-functional teams delivering value to the business
+      - Using Agile techniques to start teams from scratch with a clear approach for building backlogs, establishing delivery cadence and managing finances
+      - E2E Design of service desk process with SLA
+      - Define acceptance criteria and validate the product delivery for robust implementation. 
+      - Documenting and approving process changes and designs in Confluence
+      - Helping the CTO maintain a technical roadmap and sprint plan with delivery organisations
+      - Running regular design workshops Occasional software solution prototyping and development of PoCs
+      - Working in conjunction with a split team between internal and external resources
+      - Direct involvement in all technical solution selection for product
+
+
   - role: Senior Software Developer / Scrum Master
     time: Sept 2019 – 2021
   - role: Software Developer
