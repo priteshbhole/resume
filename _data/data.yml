@@ -37,16 +37,18 @@ sidebar:
 certification:
   title: certification
   toolset:
-    - name: Certified AWS Cloud Practitioner (https://github.com/priteshbhole/cert/blob/main/AWS-certified-cloud-practitioner-certificate.pdf)
-    - name: Certified Business Analysis Practitioner (BCS) (https://github.com/priteshbhole/cert/blob/main/Bussiness-Analyst-Pract-BCS.pdf)
-    - name: Certified Scrum Master (Scrum.org) (https://www.scrum.org/user/343208)
-    - name: Certified Professional Scrum Product Owner I (Scrum.org) (https://www.scrum.org/user/343208)
-    - name: Certified Professional Scrum with Kanban (Scrum.org) (https://www.scrum.org/user/343208)
+    - name:  Business Analysis Practitioner (BCS) (https://github.com/priteshbhole/cert/blob/main/Bussiness-Analyst-Pract-BCS.pdf)
+    - name:  Scrum Master (Scrum.org) (https://www.scrum.org/user/343208)
+    - name:  Professional Scrum Product Owner I (Scrum.org) (https://www.scrum.org/user/343208)
+    - name:  Professional Scrum with Kanban (Scrum.org) (https://www.scrum.org/user/343208)
+    - name:  Scaled Professional Scrum (Scrum.org) (https://www.scrum.org/user/343208)
+    - name:  Professional Agile Leadership (Scrum.org) (https://www.scrum.org/user/343208)
+    - name:  Certified AWS Cloud Practitioner (https://github.com/priteshbhole/cert/blob/main/AWS-certified-cloud-practitioner-certificate.pdf)
 
 career-profile:
   title: Career Profile
   summary: |
-    A creative thinker with 4+ years of experience working in multiple roles with a good understanding of business requirements elicitation and analysis techniques. An astute analyst with solid experience in envisioning, representing and translating the product vision from the business area to software development.
+    A creative thinker with 6+ years of experience working in multiple roles with a good understanding of business requirements elicitation and analysis techniques. An astute analyst with solid experience in envisioning, representing and translating the product vision from the business area to software development.
 education:
   - degree: Master in Computing and IT
     university: Northumbria University, UK
@@ -64,56 +66,60 @@ education:
     grade: Distinction
 
 experiences:
-  - role: Scrum Master
-    time: Sept 2021 – Present
-    company: HDR UK (London, UK) - A national institute for health data science on a mission  to unite the UK’s health data to enable discoveries that improve people’s lives.
+
+  - role: IT Program Manager
+    time: Sept 2022 – Present
+    company: NatureMetrics (Guilford, UK) - Is a world leader in eDNA-based biodiversity monitoring services.
     details: |
-      - Leading end-to-end delivery across multiple teams by prioritising business value
+      - Mentoring and Agile coaching across the organisation 
+      - Managing Digital & Data product design of the product by working along with Product and engineering teams
+      - Ensuring product strategy is followed, covering design, user feedback, and data-centric design
+      - Ensuring cost-benefit analysis data is provided for all product-based decisions
+      - Managing and implementing scaled scrum and end-to-end processes downstream for delivery. Following a bigger ideation & estimation exercise for prioritisation followed by a lower-level agile process for coordinated delivery.
+      - Delivering Digital transformation IT programme by ensuring all stakeholders are involved and complex challenges are fixed in a timely manner.
+      - Roll out of new Laboratory Information Management System, Customer relationship management and Business central systems across the organisation
+      - Delivery of multiple system integration projects with multiple vendors 
       - Using metrics effectively to identify and implement opportunities for improvement in teams' processes and to capture the effectiveness of changes
       - Application of Agile approaches to building collaborative, cross-functional teams delivering value to the business
       - Using Agile techniques to start teams from scratch with a clear approach for building backlogs, establishing delivery cadence and managing finances
-      - E2E Design of service desk process with SLA
+      - Design of ITIL process for service desk with clear SLE
+      - Documenting and approving process changes and designs in Confluence
+      - Creating, Implementing, Tracking and Reporting IT roadmap to C suite stakeholder  
+
+      
+  - role: Technical Delivery Manager/Scrum Master		
+    time: Aug 2021 – Sept 2022
+    company: Health Data Research UK (London, UK) - A national institute for health data science on a mission  to unite the UK’s health data to enable discoveries that improve people’s lives.
+    details: |
+      - Leading end-to-end delivery across multiple teams by prioritising business value 
+      - Using metrics effectively to identify and implement opportunities for improvement in teams' processes and to capture the effectiveness of changes
+      - Application of Agile approaches to building collaborative, cross-functional teams delivering value to the business
+      - Using Agile techniques to start teams from scratch with a clear approach for building backlogs, establishing delivery cadence and managing finances
+      - E2E Design of service desk process and procedure with SLE
       - Define acceptance criteria and validate the product delivery for robust implementation. 
       - Documenting and approving process changes and designs in Confluence
       - Helping the CTO maintain a technical roadmap and sprint plan with delivery organisations
       - Running regular design workshops Occasional software solution prototyping and development of PoCs
       - Working in conjunction with a split team between internal and external resources
-      - Direct involvement in all technical solution selection for product
+      - Direct involvement in all technical solution design 
 
-
-  - role: Senior Software Developer / Scrum Master
-    time: Sept 2019 – Aug 2021
+   
   - role: Software Developer
-    time: Sep 2016 – Aug 2019
+    time: Sep 2016 – Aug 2021
     company: EMBL-EBI (Cambridge, UK) - Is a worldwide leader in the storage,
              analysis and dissemination of large biological datasets
     details: |
-      - Development of the content management, monitoring and
-        tracking system for organisation’s financial and infrastructural
-        capacity planning and management
-      - Analysing the project proposal document to identify and map the
-        stakeholders using the interest power grid and RACI matrix
-      - Facilitating the workshop to reach a consensus As-in, To-be model
-        and to identify CSF and KPI for the project
-      - Working with stakeholders to prioritise the product backlog with
-        various techniques like MoSCoW, Kano Model, Weighted Scoring or
-         100$ bill
-      - Organising brainstorming sessions with stakeholders and development
-        teams for new or existing features improvement or bugs and
-        capturing it using rich picture or mind map
-      - Developing mock-ups and prototypes using Figma or Balsamiq to
-         help stakeholders with ambiguities
-      -	Analysed risk and impact jointly with development teams and
-         project manager
-      -	Capturing system process flow with functional and non-functional
-         requirements in user stories with personas
-      -	Creating UAT with close feedbacks from collaborators and associates
-      -	Supporting the solutions team throughout the development process with any queries by conducting multiple Joint Application Development (JAD) sessions
-      -	Creating the functional process flow, ER diagram and Class modelling for the system to understand details of implementation
-      -	Implemented Scrum ideology in the teams by advocating Scrum methodologies, facilitating the Scrum events and solving impediments
-      -	Implementing the user stories using spring boot and angular framework
-      -	Crafting and implementing the RDBMS for the system along the lines of ER diagram
-      -	Data analysis and visualisation using Kibana, Redash and Google Charts for capacity planning matrix
+      - Analysing the project proposal document to identify and map the stakeholders using the interest power grid and RACI matrix
+      - Facilitating the workshop to reach a consensus As-in, To-be model and to identify CSF and KPI for the project
+      - Working with stakeholders to prioritise the product backlog with various techniques like MoSCoW, Weighted Scoring or 100$ bill
+      - Developing low fidelity mock-ups and prototypes using balsamic to help stakeholder with ambiguities 
+      - Analysed risk and impact jointly with development teams and project manager
+      - Capturing system process flow with functional and non-functional requirements in user stories 
+      - Creating the functional process flow, ER diagram and class modelling for the system to understand the details of implementation
+      - Implemented scrum ideology in the teams by advocating scrum methodologies and facilitating scrum events like sprint planning, daily stand-ups, demoing in the sprint review and turning sprint retrospective into actionable improvements
+      - Implementing the user stories using spring boot and angular frameworks
+      - Crafting and implementing the RDBMS database for the system along the lines of ER diagram
+
 
   - role: Trainee web developer
     time: June 2015 - Sep 2015
@@ -131,13 +137,13 @@ technical-skills:
   title: Skills &amp; Summary
 
   toolset:
-    - name: Data Analysis/Modelling & UML
+    - name: Agile Coaching
       level: 70%
 
     - name: User Journey & Storyboarding
       level: 75%
 
-    - name: Agile, Jira, Confluence
+    - name: Jira, Confluence
       level: 75%
 
     - name: Product Design Methodologies
@@ -145,7 +151,10 @@ technical-skills:
 
     - name: Stakeholder Management
       level: 70%
-
+      
+    - name: Leadership and Mentoring 
+      level: 75%
+      
     - name: Conceptual Skills
       level: 75%
 
@@ -194,17 +203,18 @@ technical-skills:
     - name: D3.js & Google charts
       level: 75%
 
-accomplishments:
+expertise:
   - details: |
-      - Collaborating with business/technical stakeholders to understand business problem statements and convert them into epics and user stories for the solutions team
-      - Negotiating and presenting the scope of the product backlog and sprint goals to business/technical stakeholders
+      - Leading and managing end-to-end delivery of projects across cross-functional teams, building sustainable processes and coordinating release schedules
+      - Experience in creating, optimising, and executing software development processes
+      - Experience in managing vendors and vendors lead deliver both in agile and waterfall approach
+      - Engaging with a partner and cross-functional teams to identify constraints, dependencies, risks/issues, and to deliver tooling adoption
+      - Negotiating and presenting the scope of the MVP feature and sprint goals to business/technical stakeholders
+      - Driving engagement and improvements for multiple KPIs, including helping create relevant dashboards for leaders and stakeholders to remain informed.
       - Conducting workshops with multi-disciplinary stakeholders gathering/analysing functional and non-functional requirements of the features or functionalities for system and business using prototypes and scenario analysis
-      - Performed As-Is and To-Be analysis to create an action plan
-      - Data analysis on company infrastructure usage and assisting senior stakeholder in the capacity planning
+      - Performed As-Is and To-Be analyses to create an action-phased delivery plan 
       - Leading Scrum transformation initiative, implementing processes to accommodate changing requirements across projects for an improved delivery
-      - Working closely with senior managers to maintain product lifecycle,
-        gathering/prioritising product/customer requirements, defining the product vision, and delivery of the product
-      - Hands-on experience with microservice architecture-based
-         applications with a solid understanding of Restful protocols
-      - Advocating standard coding practices like TDD/BDD development and CI/CD automation
+      - Hands-on experience with microservice architecture-based applications with a solid understanding of Restful protocols
+      - Advocate for operational excellence (such as TDD/BDD, CI/CD, establishing SLE, programming for resiliency and scalability 
+
 
