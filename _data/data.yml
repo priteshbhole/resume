@@ -7,7 +7,7 @@ sidebar:
 
   # Profile information
   name: Pritesh Bhole
-  tagline: Full Stack Developer
+  tagline: IT Program Manager
   avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -37,6 +37,7 @@ sidebar:
 certification:
   title: certification
   toolset:
+    - name:  Professional Scrum Master II (PSM2, Scrum.org)
     - name:  Business Analysis Practitioner (BCS) (https://github.com/priteshbhole/cert/blob/main/Bussiness-Analyst-Pract-BCS.pdf)
     - name:  Scrum Master (Scrum.org) (https://www.scrum.org/user/343208)
     - name:  Professional Scrum Product Owner I (Scrum.org) (https://www.scrum.org/user/343208)
@@ -46,9 +47,9 @@ certification:
     - name:  Certified AWS Cloud Practitioner (https://github.com/priteshbhole/cert/blob/main/AWS-certified-cloud-practitioner-certificate.pdf)
 
 career-profile:
-  title: Career Profile
+  title: Profile
   summary: |
-    A creative thinker with 6+ years of experience working in multiple roles with a good understanding of business requirements elicitation and analysis techniques. An astute analyst with solid experience in envisioning, representing and translating the product vision from the business area to software development.
+    Dynamic professional with experience leading cross-functional teams, optimising software development processes, and implementing Agile practices. My strengths include stakeholder collaboration, KPI improvement, and operational excellence, ensuring successful project delivery and continuous improvement.
 education:
   - degree: Master in Computing and IT
     university: Northumbria University, UK
@@ -71,37 +72,42 @@ experiences:
     time: Sept 2022 – Present
     company: NatureMetrics (Guilford, UK) - Is a world leader in eDNA-based biodiversity monitoring services.
     details: |
-      - Mentoring and Agile coaching across the organisation 
-      - Managing Digital & Data product design of the product by working along with Product and engineering teams
-      - Ensuring product strategy is followed, covering design, user feedback, and data-centric design
-      - Ensuring cost-benefit analysis data is provided for all product-based decisions
-      - Managing and implementing scaled scrum and end-to-end processes downstream for delivery. Following a bigger ideation & estimation exercise for prioritisation followed by a lower-level agile process for coordinated delivery.
-      - Delivering Digital transformation IT programme by ensuring all stakeholders are involved and complex challenges are fixed in a timely manner.
-      - Roll out of new Laboratory Information Management System, Customer relationship management and Business central systems across the organisation
-      - Delivery of multiple system integration projects with multiple vendors 
-      - Using metrics effectively to identify and implement opportunities for improvement in teams' processes and to capture the effectiveness of changes
-      - Application of Agile approaches to building collaborative, cross-functional teams delivering value to the business
-      - Using Agile techniques to start teams from scratch with a clear approach for building backlogs, establishing delivery cadence and managing finances
-      - Design of ITIL process for service desk with clear SLE
-      - Documenting and approving process changes and designs in Confluence
-      - Creating, Implementing, Tracking and Reporting IT roadmap to C suite stakeholder  
+      - Successful rollout of CRM, and Business Central systems on time and within budget. This enhanced data and forecasting capabilities by collaborating with sales, operations, and finance teams.
+      - Leading cross-functional teams to deliver NatureMetrics' intelligent platform, the core product, in under a year through phased releases (prototype, pilot, MVP).
+      - Collaborating with specialists in product, technical, architecture, bioinformatics, and machine learning to improve ESG, TNFD, and other reporting standards.
+      - Working with the product and machine learning teams to improve existing machine learning products and drive R&D.
+      - Improving data quality and lab efficiency within budget and timelines by implementing a laboratory inventory management system.
+      - Mentoring junior PMs and IT Ops Leads, contributing to their growth and development.
+      - Overseeing IT operations vendors and ensuring seamless service delivery.
+      - Streamlined communication and alignment by maintaining team roadmaps and dependencies.
+      - Implementing JIRA and Confluence to improve project management and documentation.
+      - Promoting an agile culture within the organisation through Agile coaching.
+      - Managing the migration of data to a new warehouse solution, optimising data accessibility.
+      - Enhancing IT support and issue resolution by implementing service desk processes and policies.
+      - Implementing sustainable processes across cross-functional teams to deliver end-to-end projects.
+      - Providing mentorship and Agile coaching, driving continuous improvement in Agile practices.
+      - Developing digital and data products in alignment with strategy, user feedback, and data-centric design.
+      - Creating, Implementing, Tracking and Reporting IT roadmap to C-suite stakeholders.
+
 
       
   - role: Technical Delivery Manager/Scrum Master		
     time: Aug 2021 – Sept 2022
     company: Health Data Research UK (London, UK) - A national institute for health data science on a mission  to unite the UK’s health data to enable discoveries that improve people’s lives.
     details: |
-      - Leading end-to-end delivery across multiple teams by prioritising business value 
-      - Using metrics effectively to identify and implement opportunities for improvement in teams' processes and to capture the effectiveness of changes
-      - Application of Agile approaches to building collaborative, cross-functional teams delivering value to the business
-      - Using Agile techniques to start teams from scratch with a clear approach for building backlogs, establishing delivery cadence and managing finances
-      - E2E Design of service desk process and procedure with SLE
-      - Define acceptance criteria and validate the product delivery for robust implementation. 
-      - Documenting and approving process changes and designs in Confluence
-      - Helping the CTO maintain a technical roadmap and sprint plan with delivery organisations
-      - Running regular design workshops Occasional software solution prototyping and development of PoCs
-      - Working in conjunction with a split team between internal and external resources
-      - Direct involvement in all technical solution design 
+      - Participation in the design of all technical solutions.
+      - Implementing end-to-end solutions across multiple teams prioritising business value.
+      - Use metrics to identify and implement improvement opportunities in teams and processes and capture their effectiveness.
+      - Applying Agile approaches to building collaborative, cross-functional teams to deliver value to the business.
+      - Using Agile techniques to start teams from scratch with a clear approach to building backlogs, establishing a delivery cadence and managing finances.
+      - End to end design of service desk processes and procedures with SLE.
+      - Implementing robust acceptance criteria and validating product delivery.
+      - Documenting and approving process changes and designs in Confluence.
+      - Assisting the CTO in maintaining a technical roadmap and sprint plan with delivery organisations.
+      - Conducting regular design workshops.
+      - Prototyping and development of proofs of concept for software solutions on occasion.
+      - Working with a split team of internal and external staff.
+
 
    
   - role: Software Developer
@@ -109,16 +115,18 @@ experiences:
     company: EMBL-EBI (Cambridge, UK) - Is a worldwide leader in the storage,
              analysis and dissemination of large biological datasets
     details: |
-      - Analysing the project proposal document to identify and map the stakeholders using the interest power grid and RACI matrix
-      - Facilitating the workshop to reach a consensus As-in, To-be model and to identify CSF and KPI for the project
-      - Working with stakeholders to prioritise the product backlog with various techniques like MoSCoW, Weighted Scoring or 100$ bill
-      - Developing low fidelity mock-ups and prototypes using balsamic to help stakeholder with ambiguities 
-      - Analysed risk and impact jointly with development teams and project manager
-      - Capturing system process flow with functional and non-functional requirements in user stories 
-      - Creating the functional process flow, ER diagram and class modelling for the system to understand the details of implementation
-      - Implemented scrum ideology in the teams by advocating scrum methodologies and facilitating scrum events like sprint planning, daily stand-ups, demoing in the sprint review and turning sprint retrospective into actionable improvements
-      - Implementing the user stories using spring boot and angular frameworks
-      - Crafting and implementing the RDBMS database for the system along the lines of ER diagram
+      - Developing a content management, monitoring and tracking system for the organisation's financial and infrastructural capacity planning and management.
+      - Analysing and mapping stakeholder interests based on interest power grids and RACI matrixes.
+      - Facilitating workshops to reach a consensus As-is To-be model and identify Critical Success Factors (CSF) and KPI for the project.
+      - Working with stakeholders to prioritise the product backlog with various techniques like MoSCoW, Weighted Scoring or the 100$ bill.
+      - Developing low fidelity mock-ups and prototypes using balsamic for stakeholders.
+      - Jointly analysing risks and impacts with development teams and project managers.
+      - Creating user stories that capture system process flow with functional and non-functional requirements.
+      - Creating the functional process flow, ER diagram and class modelling for the system to understand the details of implementation.
+      - Scrum implementation in teams, including sprint planning, daily stand-ups, sprint review demos, and making improvements from sprint retrospectives.
+      - Implementing user stories using Spring Boot and Angular frameworks.
+      - Crafting and implementing the RDBMS database for the system along the lines of the ER diagram.
+
 
 
   - role: Trainee web developer
@@ -134,7 +142,7 @@ experiences:
 
 
 technical-skills:
-  title: Skills &amp; Summary
+  title: Technical &amp And &amp Behavioural &amp Skills &amp; Summary
 
   toolset:
     - name: Agile Coaching
@@ -188,7 +196,7 @@ technical-skills:
     - name: RDBMS
       level: 90%
 
-    - name: SQL, GraphQl & JSONiq
+    - name: SQL & JSONiq
       level: 85%
 
     - name: MS Office & Ms. Project
@@ -205,16 +213,15 @@ technical-skills:
 
 accomplishments:
   - details: |
-      - Leading and managing end-to-end delivery of projects across cross-functional teams, building sustainable processes and coordinating release schedules
-      - Experience in creating, optimising, and executing software development processes
-      - Experience in managing vendors and vendors lead deliver both in agile and waterfall approach
-      - Engaging with a partner and cross-functional teams to identify constraints, dependencies, risks/issues, and to deliver tooling adoption
-      - Negotiating and presenting the scope of the MVP feature and sprint goals to business/technical stakeholders
-      - Driving engagement and improvements for multiple KPIs, including helping create relevant dashboards for leaders and stakeholders to remain informed.
-      - Conducting workshops with multi-disciplinary stakeholders gathering/analysing functional and non-functional requirements of the features or functionalities for system and business using prototypes and scenario analysis
-      - Performed As-Is and To-Be analyses to create an action-phased delivery plan 
-      - Leading Scrum transformation initiative, implementing processes to accommodate changing requirements across projects for an improved delivery
-      - Hands-on experience with microservice architecture-based applications with a solid understanding of Restful protocols
-      - Advocate for operational excellence (such as TDD/BDD, CI/CD, establishing SLE, programming for resiliency and scalability 
+      - Leading and managing end-to-end project delivery across cross-functional teams, focusing on efficiency and sustainability.
+      - Creating, optimising, and executing software development processes, ensuring streamlined and effective workflows.
+      - Proficient management of vendors and vendor-led projects, with experience in Agile and Waterfall project management.
+      - Collaborating with partners and cross-functional teams to identify constraints, dependencies, risks/issues, and facilitate the adoption of tooling.
+      - Negotiating and communicating the scope of Minimum Viable Products (MVP) and sprint goals to business and technical stakeholders to ensure alignment with project goals.
+      - Developing dashboards to inform decision-making and improve multiple KPIs
+      - Gathering and analysing functional and non-functional requirements through co-creation workshops with multidisciplinary stakeholders.
+      - Performing As-Is and To-Be analyses, resulting in actionable phased delivery plans for project success.
+      - Lead transformation initiatives and implement adaptable processes to accommodate changing requirements and improve project delivery with Scrum.
+      - Hands-on experience with microservice architecture-based applications, strong understanding of Restful protocols, and promoting operational excellence (e.g., TDD/BDD, CI/CD, establishing SLE, programming for resiliency and scalability).
 
 
