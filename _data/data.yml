@@ -37,10 +37,13 @@ sidebar:
 certification:
   title: certification
   toolset:
-    - name:  Professional Scrum Master II (PSM2, Scrum.org)
+    - name:  Project Management Professional (PMP) (https://www.pmi.org/certifications/certification-resources/registry?certificationId=4062651&firstName=pritesh&lastName=bhole#search-info)
+    - name:  Professional Scrum Master II (PSM2, Scrum.org) (https://www.scrum.org/user/343208)
+    - name:  Professional Scrum Master I (Scrum.org) (https://www.scrum.org/user/343208)
+    - name:  Professional Scrum Product Owner II (PSM2, Scrum.org) (https://www.scrum.org/user/343208)
+    - name:  Professional Scrum Product Owner I (PSM2, Scrum.org) (https://www.scrum.org/user/343208)
     - name:  Business Analysis Practitioner (BCS) (https://github.com/priteshbhole/cert/blob/main/Bussiness-Analyst-Pract-BCS.pdf)
-    - name:  Scrum Master (Scrum.org) (https://www.scrum.org/user/343208)
-    - name:  Professional Scrum Product Owner I (Scrum.org) (https://www.scrum.org/user/343208)
+    - name:  Professional Agile Leadership - Evidence-Based Management
     - name:  Professional Scrum with Kanban (Scrum.org) (https://www.scrum.org/user/343208)
     - name:  Scaled Professional Scrum (Scrum.org) (https://www.scrum.org/user/343208)
     - name:  Professional Agile Leadership (Scrum.org) (https://www.scrum.org/user/343208)
@@ -49,7 +52,7 @@ certification:
 career-profile:
   title: Profile
   summary: |
-    Dynamic professional with experience leading cross-functional teams, optimising software development processes, and implementing Agile practices. My strengths include stakeholder collaboration, KPI improvement, and operational excellence, ensuring successful project delivery and continuous improvement.
+    Ex-software developer with 5+ years coding (Java, JS) turned IT Program Manager, delivering $3M+ in digital platforms (ERP, LIMS, ML-driven solutions). Agile expert driving 40%+ efficiency gains, now mastering AI to shape scalable, innovative products.
 education:
   - degree: Master in Computing and IT
     university: Northumbria University, UK
@@ -72,62 +75,41 @@ experiences:
     time: Sept 2022 – Present
     company: NatureMetrics (Guilford, UK) - Is a world leader in eDNA-based biodiversity monitoring services.
     details: |
-      - Successful rollout of CRM, and Business Central systems on time and within budget. This enhanced data and forecasting capabilities by collaborating with sales, operations, and finance teams.
-      - Leading cross-functional teams to deliver NatureMetrics' intelligent platform, the core product, in under a year through phased releases (prototype, pilot, MVP).
-      - Collaborating with specialists in product, technical, architecture, bioinformatics, and machine learning to improve ESG, TNFD, and other reporting standards.
-      - Working with the product and machine learning teams to improve existing machine learning products and drive R&D.
-      - Improving data quality and lab efficiency within budget and timelines by implementing a laboratory inventory management system.
-      - Mentoring junior PMs and IT Ops Leads, contributing to their growth and development.
-      - Overseeing IT operations vendors and ensuring seamless service delivery.
-      - Streamlined communication and alignment by maintaining team roadmaps and dependencies.
-      - Implementing JIRA and Confluence to improve project management and documentation.
-      - Promoting an agile culture within the organisation through Agile coaching.
-      - Managing the migration of data to a new warehouse solution, optimising data accessibility.
-      - Enhancing IT support and issue resolution by implementing service desk processes and policies.
-      - Implementing sustainable processes across cross-functional teams to deliver end-to-end projects.
-      - Providing mentorship and Agile coaching, driving continuous improvement in Agile practices.
-      - Developing digital and data products in alignment with strategy, user feedback, and data-centric design.
-      - Creating, Implementing, Tracking and Reporting IT roadmap to C-suite stakeholders.
-
-
+      - Launched $1.2M intelligent platform MVP, integrating ML for ESG metrics, creating a new revenue stream.
+      - Developed Predictive AI driven Join Species Distribution Models (jSDMs) at NatureMetrics using TensorFlow and CNNs boosting biodiversity predictions by 40% with eDNA and remote sensing data and advancing MLOps for ecological scalability.
+      - Delivered $1.5M ERP suite (CRM, BC, HR), boosting order processing by 20% and data quality by 30%.
+      - Procured $600K LIMS, cutting lab turnaround by 40% ($200K saved annually) via vendor negotiations.
+      - Directed ERP integrations, enhancing data accuracy and process flow across sales and ops.
+      - Mentored Agile adoption, embedding user-centric practices organization-wide.
+      - Provided mentorship to junior Project Managers and IT Operations Leads, fostering their growth and development.
+      - Improved project management and documentation processes by implementing JIRA and Confluence.
+      - Enhanced IT support and issue resolution capabilities by implementing service desk processes and policies.
+      - Established sustainable processes across cross-functional teams for end-to-end project delivery.
+      - Created, implemented, tracked, and reported on the IT roadmap to C-suite stakeholders, ensuring alignment with strategic objectives.
       
   - role: Technical Delivery Manager/Scrum Master		
     time: Aug 2021 – Sept 2022
     company: Health Data Research UK (London, UK) - A national institute for health data science on a mission  to unite the UK’s health data to enable discoveries that improve people’s lives.
     details: |
-      - Participation in the design of all technical solutions.
-      - Implementing end-to-end solutions across multiple teams prioritising business value.
-      - Use metrics to identify and implement improvement opportunities in teams and processes and capture their effectiveness.
-      - Applying Agile approaches to building collaborative, cross-functional teams to deliver value to the business.
-      - Using Agile techniques to start teams from scratch with a clear approach to building backlogs, establishing a delivery cadence and managing finances.
-      - End to end design of service desk processes and procedures with SLE.
-      - Implementing robust acceptance criteria and validating product delivery.
-      - Documenting and approving process changes and designs in Confluence.
-      - Assisting the CTO in maintaining a technical roadmap and sprint plan with delivery organisations.
-      - Conducting regular design workshops.
-      - Prototyping and development of proofs of concept for software solutions on occasion.
-      - Working with a split team of internal and external staff.
-
-
+      - Built a search engine portal for dataset searches using metadata, increasing access requests by 40% and slashing processing time by 50%.
+      - Leveraged Agile methodologies to identify and analyze improvement impacts on team performance, enhancing delivery of business value.
+      - Established and guided new Agile teams, focusing on backlog creation, sprint planning, and delivery for cross-functional teams.
+      - Developed and implemented Service Level Expectations (SLEs), improving product delivery timelines
+      - Documented and approved process changes and designs in Confluence, actively contributing to design of all technical solutions.
+      - Supported CTO in maintaining technical roadmap and sprint planning, collaborating with delivery organizations on budget adherence, resource allocation, and capacity planning.
+      - Facilitated regular design workshops with stakeholders to ensure alignment and gather valuable feedback.
    
   - role: Software Developer
     time: Sep 2016 – Aug 2021
     company: EMBL-EBI (Cambridge, UK) - Is a worldwide leader in the storage,
              analysis and dissemination of large biological datasets
     details: |
-      - Developing a content management, monitoring and tracking system for the organisation's financial and infrastructural capacity planning and management.
-      - Analysing and mapping stakeholder interests based on interest power grids and RACI matrixes.
-      - Facilitating workshops to reach a consensus As-is To-be model and identify Critical Success Factors (CSF) and KPI for the project.
-      - Working with stakeholders to prioritise the product backlog with various techniques like MoSCoW, Weighted Scoring or the 100$ bill.
-      - Developing low fidelity mock-ups and prototypes using balsamic for stakeholders.
-      - Jointly analysing risks and impacts with development teams and project managers.
-      - Creating user stories that capture system process flow with functional and non-functional requirements.
-      - Creating the functional process flow, ER diagram and class modelling for the system to understand the details of implementation.
-      - Scrum implementation in teams, including sprint planning, daily stand-ups, sprint review demos, and making improvements from sprint retrospectives.
-      - Implementing user stories using Spring Boot and Angular frameworks.
-      - Crafting and implementing the RDBMS database for the system along the lines of the ER diagram.
-
-
+      - Developed a content management system, streamlining financial and infrastructural planning for 1000+ users.
+      - Created a one-click cloud portal, slashing scientist setup time by 50% via cloud infrastructure spin-up.
+      - Designed high-performance, scalable solutions using Java, Spring Boot, and Angular, meeting strict specs.
+      - Facilitated workshops to reach consensus on As-Is/To-Be models, identifying critical success factors (CSFs).
+      - Mapped stakeholder requirements with RACI, MoSCoW, and workflows, enhancing delivery with prototypes.
+      - Implemented ER diagrams, RDBMS databases, and class modeling, improving sprint planning and stand-ups.
 
   - role: Trainee web developer
     time: June 2015 - Sep 2015
@@ -142,74 +124,53 @@ experiences:
 
 
 technical-skills:
-  title: Technical &amp And &amp Behavioural &amp Skills &amp; Summary
+  title: Skills
 
   toolset:
-    - name: Agile Coaching
+    - name: Agile Coaching and Agile framework Implementation
       level: 70%
 
-    - name: User Journey & Storyboarding
+    - name: Product Development Methodologies
       level: 75%
-
-    - name: Jira, Confluence
-      level: 75%
-
-    - name: Product Design Methodologies
-      level: 70%
 
     - name: Stakeholder Management
+      level: 75%
+
+    - name: User-Centric Design Processes
+      level: 70%
+
+    - name: Team and Relationship Building
       level: 70%
       
-    - name: Leadership and Mentoring 
+    - name: Communication, Collaboration and Teamwork
       level: 75%
       
-    - name: Conceptual Skills
+    - name: GAP Analysis and Requirement Gathering
       level: 75%
 
-    - name: User-centred Design Processes
+    - name: Leadership and Mentoring
       level: 75%
 
-    - name: Communication, Collaboration and Teamwork
+    - name: Budget Administration
       level: 90%
 
-    - name: GAP analysis & Target Operating Model
+    - name: Jira, Confluence, Miro, Figma
       level: 75%
 
-    - name: HTML5 & CSS
+    - name: Balsamiq, Figma
       level: 75%
 
-    - name: JavaScript & Typescript
+    - name: Kibana, Redash, Tableau
       level: 85%
 
-    - name: Angular 2
+    - name: HTML5, JavaScript, Typescript, Java
       level: 75%
 
-    - name: Bootstrap & Material
+    - name: RDBMS , NoSql, GraphQL
       level: 75%
-
-    - name: Java
-      level: 85%
-
-    - name: Spring Boot
-      level: 75%
-
-    - name: RDBMS
-      level: 90%
-
-    - name: SQL & JSONiq
-      level: 85%
 
     - name: MS Office & Ms. Project
       level: 90%
-
-    - name: Balsamic & Figma
-      level: 90%
-
-    - name: Kibana & Redash
-      level: 75%
-
-    - name: D3.js & Google charts
-      level: 75%
 
 accomplishments:
   - details: |
