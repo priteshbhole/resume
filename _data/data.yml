@@ -37,7 +37,8 @@ sidebar:
 certification:
   title: certification
   toolset:
-    - name:  Project Management Professional (PMP) (https://www.pmi.org/certifications/certification-resources/registry?certificationId=4062651&firstName=pritesh&lastName=bhole#search-info)
+    - name:  AI Product Manager (https://www.coursera.org/account/accomplishments/specialization/XCPSQ1VO32OT)
+    - name:  Project Management Professional (PMP-PMI) (https://www.pmi.org/certifications/certification-resources/registry?certificationId=4062651&firstName=pritesh&lastName=bhole#search-info)
     - name:  Professional Scrum Master II (PSM2, Scrum.org) (https://www.scrum.org/user/343208)
     - name:  Professional Scrum Master I (Scrum.org) (https://www.scrum.org/user/343208)
     - name:  Professional Scrum Product Owner II (PSM2, Scrum.org) (https://www.scrum.org/user/343208)
@@ -52,7 +53,7 @@ certification:
 career-profile:
   title: Profile
   summary: |
-    Ex-software developer with 5+ years coding (Java, JS) turned IT Program Manager, delivering $3M+ in digital platforms (ERP, LIMS, ML-driven solutions). Agile expert driving 40%+ efficiency gains, now mastering AI to shape scalable, innovative products.
+    Ex-software developer with 8+ years coding (Java, JS) turned IT Program Manager, delivering $3M+ in digital platforms (ERP, LIMS, ML-driven solutions). Agile expert driving 40%+ efficiency gains, now mastering AI to shape scalable, innovative products.
 education:
   - degree: Master in Computing and IT
     university: Northumbria University, UK
